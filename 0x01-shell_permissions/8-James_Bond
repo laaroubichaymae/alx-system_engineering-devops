@@ -1,0 +1,4 @@
+#!/bin/bash
+chmod 777 hello
+chmod a=rwx hello
+chmod go-rwx hello
